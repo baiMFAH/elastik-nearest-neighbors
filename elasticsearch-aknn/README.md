@@ -1,7 +1,7 @@
 # Elasticsearch-Aknn
 
 Elasticsearch plugin for approximate K-nearest-neighbor querires on floating-point 
-vectors using locality sensitive hashing.
+vectors using locality sensitive hashing!
 
 The API for the three main endpoints and main points about implementation are 
 documented at the root of this repository.
